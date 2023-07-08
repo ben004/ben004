@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beniel Joseph Jebaraj D</h1>
-<h3 align="center">Highly skilled and experienced Software Developer specializing in application implementation using React js, Node.js and Express.js. Proficient in unit testing, back-end service development, and the latest trends in web application development. Adept at working with cloud platforms such as AWS , and experienced in project management tools like Jira and AWS DevOps. Strong knowledge of software development life cycle processes with hands-on experience in software project execution. Seeking a challenging position to utilize my skills and contribute to the success of an organization.</h3>
+<h3 align="center">Highly skilled and experienced Software Developer specializing in application implementation using React js, Node.js and Express.js. Proficient in unit testing, back-end service development, and the latest trends in web application development. Adept at working with cloud platforms such as AWS , and experienced in project management tools like Jira and AWS DevOps. Strong knowledge of software development life cycle processes with hands-on experience in software project execution.</h3>
 
 - 💬 Ask me about **react, node, nest, sql**
 
